@@ -1,0 +1,19 @@
+.sliders { width: 1000px;
+height: 500px;
+display: flex;
+margin: auto;}
+
+img {display: none;
+}
+
+.btnRigth {
+display: flex;
+margin: auto;
+}
+
+.showSliders {
+display: block;
+object-fit: cover;
+width: 100%;
+height: 100%;
+}
